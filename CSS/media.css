@@ -28,8 +28,8 @@
     z-index: 2;
   }
   .nav img.logo {
-    width: 30% !important;
-    height: 50px !important;
+    width: 37% !important;
+    height: 54px !important;
   }
   .price-text p {
     font-size: 20px;
@@ -126,8 +126,8 @@
     z-index: 2;
   }
   .nav img.logo {
-    width: 30% !important;
-    height: 50px !important;
+    width: 37% !important;
+    height: 54px !important;
   }
   .nav:has(input:checked) .cont {
     left: 0%;
@@ -221,8 +221,8 @@
     z-index: 2;
   }
   .nav img.logo {
-    width: 30% !important;
-    height: 50px !important;
+    width: 37% !important;
+    height: 54px !important;
   }
   .nav:has(input:checked) .cont {
     left: 0%;
