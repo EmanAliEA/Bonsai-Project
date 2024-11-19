@@ -595,16 +595,16 @@ footer .cen-title {
 }
 
 .menu-container:has(input:checked) .above {
-  animation: above-close 0.8s ease-out 1 forwards;
+  animation: above-close 1s ease-out 1 forwards;
 }
 .menu-container:has(input:not(:checked)) .bottom {
-  animation: bottom-open 0.8s ease-out 1 forwards;
+  animation: bottom-open 1s ease-out 1 forwards;
 }
 .menu-container:has(input:checked) .bottom {
-  animation: bottom-close 0.8s ease-out 1 forwards;
+  animation: bottom-close 1s ease-out 1 forwards;
 }
 .menu-container:has(input:not(:checked)) .above {
-  animation: above-open 0.8s ease-out 1 forwards;
+  animation: above-open 1s ease-out 1 forwards;
 }
 
 @keyframes above-close {
