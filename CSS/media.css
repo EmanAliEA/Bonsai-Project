@@ -215,10 +215,10 @@
   .nav > .btn {
     display: none !important;
   }
-  /* .card.most::before {
-    top: 41px;
-    left: 111px;
-  } */
+  .card.most::before {
+    top: 5%;
+    left: 30%;
+  }
   .nav .menu-container {
     display: flex !important;
     /* position: absolute; */
