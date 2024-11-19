@@ -224,6 +224,10 @@ main .card ul li {
   font-size: 18px;
   padding-left: 20px;
 }
+.hidden-card {
+  display: block;
+}
+
 main .card ul li:not(.hidden-card)::before {
   content: "\2713";
   color: var(--greenColor);
