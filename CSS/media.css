@@ -1,8 +1,13 @@
+@media (max-width: 1400px) {
+  .card.most::before {
+    top: 5%;
+    left: 26%;
+  }
+}
 @media (max-width: 1200px) {
   .card.most::before {
-    font-size: 16px;
-    top: 33px;
-    left: 72px;
+    top: 4%;
+    left: 25%;
   }
   main .cards .card {
     padding: 60px 30px;
@@ -14,9 +19,8 @@
     gap: 0;
   }
   .card.most::before {
-    font-size: 16px;
-    top: 36px;
-    left: 57px;
+    top: 7%;
+    left: 38%;
   }
   .nav > .nav-items,
   .nav > .btn {
@@ -113,8 +117,8 @@
     gap: 0;
   }
   .card.most::before {
-    top: 49px;
-    left: 231px;
+    top: 7%;
+    left: 36%;
   }
   .nav > .nav-items,
   .nav > .btn {
@@ -211,10 +215,10 @@
   .nav > .btn {
     display: none !important;
   }
-  .card.most::before {
+  /* .card.most::before {
     top: 41px;
     left: 111px;
-  }
+  } */
   .nav .menu-container {
     display: flex !important;
     /* position: absolute; */
