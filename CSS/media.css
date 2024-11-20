@@ -216,7 +216,7 @@
     display: none !important;
   }
   .card.most::before {
-    top: 5%;
+    top: 4%;
     left: 30%;
   }
   .nav .menu-container {
